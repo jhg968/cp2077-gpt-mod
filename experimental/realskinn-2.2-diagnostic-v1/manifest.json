@@ -1,0 +1,10 @@
+{
+  "original_init_sha256": "d8a28dc020b55e3f2a46aef531c58731857107c0f4f69cbf99365ab27a2138c4",
+  "original_archive_sha256": "a2b9f97b5d53b086cf82b47b53e12afb794767ca7a8bd275a70e3cf15c2740a0",
+  "patched_init_sha256": "df50d4622ed1e4efcb79956b296c979b77517995896f0e61dd1cb6d729e97aa7",
+  "zip_sha256": "c7002f3ab5361392c38556a6a1a6ae15ccbfc4f384b57f0ebb952ec9fd090b45",
+  "zip_files": [
+    "bin/x64/plugins/cyber_engine_tweaks/mods/2bt_Gorilla_Arms/init.lua"
+  ],
+  "validation": "10 LuaJIT 2.1 simulated cases passed; game runtime and arm visibility unverified"
+}
