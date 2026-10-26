@@ -1,0 +1,41 @@
+{
+  "mod": "healthbar",
+  "target_version": "1.13",
+  "translated_keys": 285,
+  "zip": "Informative-Healthbar-1.13-KR-v1.zip",
+  "zip_sha256": "d4fff42897974064c0945163d84b719c878982a0e147e2fa0efec257f79ca817",
+  "files": {
+    "r6/scripts/InformativeHealthbar/Localization/Korean.reds": "48edbe214d2f89eeb1517f2dc0076f74e971870586a711f897565bbac6edc664",
+    "r6/scripts/InformativeHealthbar/Localization/LocalizationProvider.reds": "59d827b0b713c4f2741bc3b1712bcefbe6b7c0fda75063ce6c2dc48848ee3c6b"
+  },
+  "upstream_english_sha256": "8ea191ecb341338bf4a9305d22b07349160c087ee033b5b6c3ad6988fe1a3cd4",
+  "upstream_provider_sha256": "5aa9e05186a57724340098ce501b1adeb5b3899132f6bf3e461c06610e05dbd4",
+  "validation": [
+    "key coverage and duplicates",
+    "string decoding roundtrip",
+    "printf/placeholders/markup",
+    "newline and trailing-space preservation",
+    "localization code structure",
+    "exact provider registration diff",
+    "archive contents and CRC"
+  ],
+  "game_runtime_validation": "not executed",
+  "previous_keys_retained": 256,
+  "new_keys_translated": 29,
+  "retired_keys_removed": [
+    "IH.NCB.displayMode.BankAndDebt",
+    "IH.NCB.displayMode.DebtOnly",
+    "IH.NCB.displayMode.InstallmentDue",
+    "IH.NCB.displayMode.NetWorthLight",
+    "IH.NCB.ncbOrder.Name"
+  ],
+  "existing_texts_corrected": [
+    "IH.OS.prefixSandy",
+    "IH.OS.prefixBerserk",
+    "IH.NCB.showWidget.Name",
+    "IH.NCB.showWidget.Desc",
+    "IH.NCB.displayMode.Desc",
+    "IH.NCB.displayMode.BankOnly",
+    "IH.NCB.displayMode.NetWorth"
+  ]
+}

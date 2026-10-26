@@ -1,0 +1,23 @@
+{
+  "mod": "minimap",
+  "target_version": "3.2.2.1",
+  "translated_keys": 332,
+  "zip": "Minimap-Widgets-3.2.2.1-KR-v1.zip",
+  "zip_sha256": "b53412564fa3abb725f67a06a211a137402944b23c3ca0158fa4e91d98dd66ef",
+  "files": {
+    "r6/scripts/MinimapWidgets/translations/Korean.reds": "144383f64286059f558671087dbf1966b2c8eb927ba5075b3a1ebf812158cc76",
+    "r6/scripts/MinimapWidgets/translations/Provider.reds": "8bd1f7ce00b4bdea9d542c7659cee4b0bf4fe09d8dd5180a2e716d0f61121127"
+  },
+  "upstream_english_sha256": "e297a3b58da5ba287c0cb3af29b134e3cdb494ebe15a9cd28e927e1274db7a3f",
+  "upstream_provider_sha256": "506960d6548d6fd59f6662b4123646dd321d4915ac277459525b6a1d73c849c7",
+  "validation": [
+    "key coverage and duplicates",
+    "string decoding roundtrip",
+    "printf/placeholders/markup",
+    "newline and trailing-space preservation",
+    "localization code structure",
+    "exact provider registration diff",
+    "archive contents and CRC"
+  ],
+  "game_runtime_validation": "not executed"
+}
