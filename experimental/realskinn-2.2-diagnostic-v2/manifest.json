@@ -1,0 +1,8 @@
+{
+  "init_sha256": "1062c67b6387530a57d056cd4ad5e0101732b68781bf6cab0f8190da3fc6aa4a",
+  "zip_sha256": "3dcca7b8b1ef3a2baaddc3b251a1534df591c126740b89727d991252e82740c9",
+  "files": [
+    "bin/x64/plugins/cyber_engine_tweaks/mods/2bt_Gorilla_Arms/init.lua"
+  ],
+  "verification": "Reproduced v1 callback tracking failure with freshly allocated uint64 cdata; 20 v2 mocked LuaJIT tests passed. Actual game runtime unverified."
+}
