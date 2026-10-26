@@ -1,0 +1,9 @@
+{
+  "zip_sha256": "67f4bf31e1e910f0128bae40c94cb01a54b9f1a954b034637f5ee101d2e0861b",
+  "files": [
+    "bin/x64/plugins/cyber_engine_tweaks/mods/RealSkinnArmProbe/init.lua"
+  ],
+  "purpose": "Read-only arm component, mesh path and customization option inspection",
+  "validation": "3 mocked LuaJIT cases passed including immutable component fixtures and boxed uint64 hashes; real game runtime unverified",
+  "codeware_source_reference": "psiberx/cp2077-codeware b56f0f66749a7a54ffa4d1a6c403ddc655a37ca7"
+}
