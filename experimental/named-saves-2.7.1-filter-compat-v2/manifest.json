@@ -1,0 +1,8 @@
+{
+  "target_named_saves": "2.7.1",
+  "version": 2,
+  "v1_error_fixed": "Missing conditional NamedSaves.UI import for NamedSavesSearchEvent",
+  "runtime_compiled": false,
+  "patched_sha256": "dd58d18752582a0865b74493901803822819a05d957be194b4efa648c91be5c1",
+  "zip_sha256": "d2abb3af8e7bcf81cc74af5ac3e9c4b5f46e8de7689c44ab2ba90317e8b2c1bf"
+}
