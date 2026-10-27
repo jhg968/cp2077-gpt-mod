@@ -1,0 +1,4 @@
+quest:
+  phases:
+    - path: jhg968\quest_trials\monster_hunt_native_v1.questphase
+      parent: cyberpunk2077_main.quest

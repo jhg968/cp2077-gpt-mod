@@ -1,0 +1,7 @@
+{
+  "source_only": true,
+  "compiled_archive_included": false,
+  "game_runtime_tested": false,
+  "zip_sha256": "ab0886a52a7dad3e460f433d3b3a87ad630ebb1a522bc390f7af80af585a3f87",
+  "scope": "Monster Hunt lethal-path experiment only; no direct completion or reward edits"
+}
