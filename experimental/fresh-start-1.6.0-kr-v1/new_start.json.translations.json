@@ -1,0 +1,47 @@
+[
+  {
+    "primaryKey": 490545886,
+    "secondaryKey": "new_start_coupons_1",
+    "femaleVariant": "올 푸드 쿠폰 이체 완료"
+  },
+  {
+    "primaryKey": 553948038,
+    "secondaryKey": "new_start_coupons_2",
+    "femaleVariant": "마크 24 상품권 지급 완료"
+  },
+  {
+    "primaryKey": 940400525,
+    "secondaryKey": "new_start_title",
+    "femaleVariant": "새로운 시작"
+  },
+  {
+    "primaryKey": 1112792461,
+    "secondaryKey": "new_start_funds",
+    "femaleVariant": "자금 이체 완료"
+  },
+  {
+    "primaryKey": 1176663583,
+    "secondaryKey": "new_start_popup",
+    "femaleVariant": "당신은 기업에서의 출세 가도를 버리고 광활한 도로를 택했습니다. 책상과 월급을 엔진과 꿈으로 바꾼 셈이죠. 이젠 고용주도, 클랜도 없이 나이트 시티로 돌아왔고, 당신을 막을 것은 아무것도 없습니다."
+  },
+  {
+    "primaryKey": 1386453829,
+    "secondaryKey": "new_start_desc",
+    "femaleVariant": "오비탈 에어, 도착장\n착륙 후 50분 경과…"
+  },
+  {
+    "primaryKey": 2563441513,
+    "secondaryKey": "new_start_save_short",
+    "femaleVariant": "기업/노마드 [FS]"
+  },
+  {
+    "primaryKey": 3178953369,
+    "secondaryKey": "new_start_save",
+    "femaleVariant": "기업/노마드 [새로운 시작]"
+  },
+  {
+    "primaryKey": 4188158910,
+    "secondaryKey": "new_start_desc",
+    "femaleVariant": "그래요, 노마드 생활이 기대한 만큼 근사하게 끝나지 않았죠? 그래도 한동안 자유롭게 살았잖아요! \n그리고 아직 살아 있구요! 아라사카 월급쟁이로 남았으면 그렇게 운이 좋았을까요?\n예전엔 지갑이 더 두둑했겠지만… 그건 곧 채워질 테니 걱정 마세요!"
+  }
+]

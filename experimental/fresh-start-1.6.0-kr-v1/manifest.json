@@ -1,0 +1,13 @@
+{
+  "upstream_version": "1.6.0",
+  "game_runtime_tested": false,
+  "onscreen_count": 9,
+  "subtitle_count": 21,
+  "added_key": {
+    "primaryKey": 2563441513,
+    "secondaryKey": "new_start_save_short",
+    "translation": "기업/노마드 [FS]"
+  },
+  "zip_sha256": "40fc4bd191eb6776e672ef014b954cb74b349f35f9591fb7106233ce1bbf51dc",
+  "archive_sha256": "a519fb9e14013f0bf2b4e663820613bc105151bca8804d8333b33df8c6346429"
+}

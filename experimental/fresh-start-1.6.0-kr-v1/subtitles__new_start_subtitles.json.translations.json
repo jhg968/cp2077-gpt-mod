@@ -1,0 +1,88 @@
+[
+  {
+    "stringId": 66550100001,
+    "femaleVariant": "원격 조종 모드: 활성화됨"
+  },
+  {
+    "stringId": 66550100002,
+    "femaleVariant": "지연되어 죄송합니다."
+  },
+  {
+    "stringId": 66550100003,
+    "femaleVariant": "나이트 시티 오비탈 에어에 오신 것을 환영합니다. 터미널에 연결해 주세요."
+  },
+  {
+    "stringId": 66550100004,
+    "femaleVariant": "그게 귀하의 풀네임인가요..?"
+  },
+  {
+    "stringId": 66550100005,
+    "femaleVariant": "좋습니다… 스캐너를 위해 가만히 계세요."
+  },
+  {
+    "stringId": 66550100006,
+    "femaleVariant": "움직이지 마세요."
+  },
+  {
+    "stringId": 66550100007,
+    "femaleVariant": "감사합니다. 이제 몇 가지 질문이 더 있습니다."
+  },
+  {
+    "stringId": 66550100008,
+    "femaleVariant": "미지불 부채나 체포 영장이 있는지 말씀해주시겠어요?"
+  },
+  {
+    "stringId": 66550100009,
+    "femaleVariant": "흠, 기록에 따르면 아라사카에서 근무하셨네요?"
+  },
+  {
+    "stringId": 66550100010,
+    "femaleVariant": "그리고 현재는 퇴사하신 건가요?"
+  },
+  {
+    "stringId": 66550100011,
+    "femaleVariant": "그러시겠죠, 숙녀분… 다음 질문입니다.",
+    "maleVariant": "그러시겠죠, 선생님… 다음 질문입니다."
+  },
+  {
+    "stringId": 66550100012,
+    "femaleVariant": "마지막으로 속해 있던 곳이 노마드 클랜 '베커'로 나오는데 맞습니까?"
+  },
+  {
+    "stringId": 66550100013,
+    "femaleVariant": "음, 그들이 이제 공식적으로 존재하지 않으니… 무소속으로 기록하겠습니다."
+  },
+  {
+    "stringId": 66550100014,
+    "femaleVariant": "그러니까… 기업에 몸담았다가 노마드가 된 건가요?"
+  },
+  {
+    "stringId": 66550100015,
+    "femaleVariant": "혹, 넥스트 요리노부라도 되고 싶었던 건가요?"
+  },
+  {
+    "stringId": 66550100016,
+    "femaleVariant": "좋습니다, 모두 이상 없는 것 같군요."
+  },
+  {
+    "stringId": 66550100017,
+    "femaleVariant": "나이트 시티에 오신 것을 환영합니다, 지나가 주세요"
+  },
+  {
+    "stringId": 66550100018,
+    "femaleVariant": "다음 분… 나이트 시티 오비탈 에어에 오신 것을 환영합니다."
+  },
+  {
+    "stringId": 66550100019,
+    "femaleVariant": "기술적인 문제가 발생했습니다. 기다려 주셔서 감사합니다."
+  },
+  {
+    "stringId": 66550100020,
+    "femaleVariant": "숙녀분?",
+    "maleVariant": "선생님?"
+  },
+  {
+    "stringId": 66550100021,
+    "femaleVariant": "감사합니다. 이제 성함을 말씀해 주세요."
+  }
+]
