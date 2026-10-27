@@ -1,0 +1,8 @@
+{
+  "target": "Informative Healthbar 1.13",
+  "files": [
+    "r6/scripts/InformativeHealthbar/InformativeHealthbar_TopGap.reds"
+  ],
+  "sha256": "a1d48431f46b3bd0cc4e2912fcd34af04a15f6be24a908005e5a581dda077d92",
+  "validation": "Original method/field references, known ink widget APIs, balanced delimiters, single-file ZIP CRC; game compilation and visual behavior not tested"
+}
