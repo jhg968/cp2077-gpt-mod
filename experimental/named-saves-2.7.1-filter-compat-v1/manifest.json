@@ -1,0 +1,11 @@
+{
+  "target_named_saves": "2.7.1",
+  "modified_files": [
+    "r6/scripts/filter_saves.reds"
+  ],
+  "requires_disabling_old_named_saves_kr": true,
+  "source_sha256": "a329ed0bc249eb59bcd246ac2265530119fc6ed26951bc938c4b64c16d4a46ba",
+  "patched_sha256": "d161c3df1d170e4271b4a8deaac7e0c8be030451e696c80d0eae8b371370eba0",
+  "zip_sha256": "3eb56c0d69689c64ad00989abe9e7df694d61c43d7ddd5a900f0252511083500",
+  "runtime_compiled": false
+}
