@@ -1,0 +1,14 @@
+{
+  "upstream_version": "not specified in supplied files",
+  "switch_count": 10,
+  "display_strings_translated": 25,
+  "game_runtime_tested": false,
+  "luajit_mock_checks": "passed",
+  "zip_sha256": "d9468ba01283ec6baed709820dc110045de234daa35c565d81229a7ce95e0700",
+  "file_sha256": {
+    "original_ui": "290e3cb0f0988942e7b3fc62b985009dc407c75971eedd8ec0b561aa8e172558",
+    "original_init": "9e0a1e439ae3c7639e6e8fecf513da97c5b23d81c5dfb0b4bcba1dd147fe99d4",
+    "patched_ui": "93c33005b03e39051fe12f7b96fb51aa1856d0bc4cb1a5dc1901f748e72575c4",
+    "patched_init": "809581e8a470218cf0c023502be5e1b5ef6d6e39a4cfed92856e1624c3c3eee5"
+  }
+}
