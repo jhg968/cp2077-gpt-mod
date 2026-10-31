@@ -1,0 +1,62 @@
+[
+  {
+    "primaryKey": 665599401,
+    "secondaryKey": "nq_tv_anywhere_title",
+    "femaleVariant": "TV를 치워버려라"
+  },
+  {
+    "primaryKey": 665599402,
+    "secondaryKey": "nq_tv_anywhere_step_1",
+    "femaleVariant": "비디오탭을 회수하세요"
+  },
+  {
+    "primaryKey": 665599403,
+    "secondaryKey": "nq_tv_anywhere_step_1_desc",
+    "femaleVariant": "빅터가 오래된 비디오탭을 찾았다네, 근처에 갈 일 있으면 미스티 가게에서 챙겨 오자고."
+  },
+  {
+    "primaryKey": 665599405,
+    "secondaryKey": "nq_tv_anywhere_msg_1",
+    "femaleVariant": "V, 창고에서 잡동사니들 정리하다가 아직 작동하는 비디오탭 하나를 찾았어."
+  },
+  {
+    "primaryKey": 665599406,
+    "secondaryKey": "nq_tv_anywhere_msg_2",
+    "femaleVariant": "필요하면 가져가, 미스티 가게 뒤쪽에 놔뒀어."
+  },
+  {
+    "primaryKey": 665599407,
+    "secondaryKey": "nq_tv_anywhere_msg_ch_1",
+    "femaleVariant": "고마워, 빅. 공짜로 받긴 뭐한데, 필요한 거라도 없어?"
+  },
+  {
+    "primaryKey": 665599408,
+    "secondaryKey": "nq_tv_anywhere_msg_title",
+    "femaleVariant": "낡은 비디오탭"
+  },
+  {
+    "primaryKey": 665599409,
+    "secondaryKey": "nq_tv_anywhere_msg_3",
+    "femaleVariant": "아냐, 됐어 꼬맹아. 어짜피 그냥 쓰레기통행이었거든."
+  },
+  {
+    "primaryKey": 665599411,
+    "secondaryKey": "nq_tv_anywhere_tablet",
+    "femaleVariant": "빅의 낡은 비디오탭"
+  },
+  {
+    "primaryKey": 665599412,
+    "secondaryKey": "nq_tv_anywhere_tut_title",
+    "femaleVariant": "TV Anywhere"
+  },
+  {
+    "primaryKey": 665599413,
+    "secondaryKey": "nq_tv_anywhere_tut_msg",
+    "femaleVariant": "이제 대기 상태에서 <Rich color=\"TextColor.Hightlight\">TV Anywhere</>를 사용할 수 있습니다. <Input actionName=\"ToggleSprint\" color=\"Tutorial.InputHint\"></>를 사용하세요."
+  },
+  {
+    "primaryKey": 665599414,
+    "secondaryKey": "nq_tv_anywhere_tut_msg_new",
+    "femaleVariant": "이제 대기 상태에서 <Rich color=\"TextColor.Hightlight\">TV Anywhere</>를 사용할 수 있습니다. <Rich color=\"TextColor.Hightlight\">원형/퀵 메뉴</>를 사용하세요."
+  }
+]

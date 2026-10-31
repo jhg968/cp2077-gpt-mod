@@ -1,0 +1,78 @@
+{
+  "upstream_metadata_version": "3.3.3.0",
+  "game_runtime_tested": false,
+  "resources": [
+    {
+      "path": "base\\localization\\kr-kr\\tv_anywhere.json",
+      "entry_count": 12,
+      "id_changes": [
+        {
+          "secondaryKey": "nq_tv_anywhere_title",
+          "old": 99401,
+          "new": 665599401
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_step_1",
+          "old": 99402,
+          "new": 665599402
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_step_1_desc",
+          "old": 99403,
+          "new": 665599403
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_msg_1",
+          "old": 99405,
+          "new": 665599405
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_msg_2",
+          "old": 99406,
+          "new": 665599406
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_msg_ch_1",
+          "old": 99407,
+          "new": 665599407
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_msg_title",
+          "old": 99408,
+          "new": 665599408
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_msg_3",
+          "old": 99409,
+          "new": 665599409
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_tablet",
+          "old": 99411,
+          "new": 665599411
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_tut_title",
+          "old": 99412,
+          "new": 665599412
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_tut_msg",
+          "old": 99413,
+          "new": 665599413
+        },
+        {
+          "secondaryKey": "nq_tv_anywhere_tut_msg_new",
+          "old": 99414,
+          "new": 665599414
+        }
+      ]
+    },
+    {
+      "path": "base\\localization\\kr-kr\\tv_anywhere_sub.json",
+      "entry_count": 1,
+      "id_changes": []
+    }
+  ],
+  "subtitle_map_import": "base\\localization\\kr-kr\\tv_anywhere_sub.json"
+}

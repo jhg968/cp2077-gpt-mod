@@ -1,0 +1,11 @@
+{
+  "upstream_metadata_version": "3.3.3.0",
+  "onscreen_count": 12,
+  "updated_primary_keys": 12,
+  "subtitle_count": 1,
+  "archive_resource_count": 2,
+  "translation_only": true,
+  "game_runtime_tested": false,
+  "zip_sha256": "3914b6307de351237916fa53daeb831f8ffa6332ca760e4772426efaf19ba287",
+  "archive_sha256": "7b2a49161252aa5ef1f343cf922b4aad727af01eb169074c5028737098009c8c"
+}
