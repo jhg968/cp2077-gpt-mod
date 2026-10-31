@@ -1,0 +1,9 @@
+{
+  "target_named_saves": "2.7.1",
+  "presentation_only": true,
+  "original_defaults_preserved": true,
+  "runtime_compiled": false,
+  "source_sha256": "8619d0d0f545bb3f30975da7fb12467de3db9f927e6172dcece8d367f84ed444",
+  "patched_sha256": "a72bffc6d71d97dfe2e1cb42718f41047eb3fae8f9ac36332764dad07eecf77c",
+  "zip_sha256": "ea646586174f98fa74ddb0a4071a73a46081120a6e5ccc66c784b7e6fec7c4f5"
+}
