@@ -1,0 +1,11 @@
+{
+  "upstream_version": "0.0.0.22",
+  "translation_count": 110,
+  "new_translation_count": 16,
+  "archive_resource_count": 1,
+  "translation_only": true,
+  "locale": "kr-kr",
+  "game_runtime_tested": false,
+  "zip_sha256": "cd29a47f42aadd2dacca84b437dbe4ea2323396860498e1ae3cbd9c3d0bafbe6",
+  "archive_sha256": "1fcc8d2f36ca090ed95ac7bf063e23d4b07ead3a5ee58e535acab20f4c779636"
+}

@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0.22",
+  "entries": 110,
+  "reused_entries": 94,
+  "new_entries": 16,
+  "removed_old_entries": [
+    "UI-AutoDriveEnhanced-Settings-resetPlayerInAutodriveFact-desc",
+    "UI-AutoDriveEnhanced-Settings-resetPlayerInAutodriveFact-label"
+  ],
+  "archive_resources": [
+    "auto_drive_enhanced\\localization\\kr-kr\\onscreens\\onscreens.json"
+  ],
+  "literal_source_refs_without_entries": [],
+  "game_runtime_tested": false
+}

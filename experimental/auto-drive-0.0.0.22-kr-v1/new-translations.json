@@ -1,0 +1,18 @@
+{
+  "Gameplay-AutoDriveEnhanced-OldVanilla230AI": "구형 바닐라 AI (v2.30)",
+  "Gameplay-AutoDriveEnhanced-SwitchAI_ToOldVanilla230": "AI를 구형 바닐라(v2.30)로 전환",
+  "UI-AutoDriveEnhanced-Settings-CheatCategory-label": "치트",
+  "UI-AutoDriveEnhanced-Settings-canSwitchToOldVanila230AIByInput-desc": "단축키로 구형 바닐라(v2.30) AI로 전환할 수 있습니다. 꺼도 모드 설정에서는 AI를 변경할 수 있습니다.",
+  "UI-AutoDriveEnhanced-Settings-canSwitchToOldVanila230AIByInput-label": "단축키로 구형 바닐라(v2.30) AI 전환 허용",
+  "UI-AutoDriveEnhanced-Settings-disableCheatsInCombat-desc": "전투 중에는 치트 기능을 비활성화합니다.",
+  "UI-AutoDriveEnhanced-Settings-disableCheatsInCombat-label": "전투 중 치트 비활성화",
+  "UI-AutoDriveEnhanced-Settings-drivingAI.OldVanilla230-label": "구형 바닐라 AI (v2.30)",
+  "UI-AutoDriveEnhanced-Settings-lockHeatLevel-desc": "자동 주행 중 수배 수준을 고정해 수배되지 않도록 합니다.",
+  "UI-AutoDriveEnhanced-Settings-lockHeatLevel-label": "자동 주행 중 수배 수준 고정",
+  "UI-AutoDriveEnhanced-Settings-noDamage-desc": "자동 주행 중 피해를 받지 않습니다.",
+  "UI-AutoDriveEnhanced-Settings-noDamage-label": "자동 주행 중 피해 무효화",
+  "UI-AutoDriveEnhanced-Settings-putElbowOnWindow-desc": "창문에 팔을 올립니다.",
+  "UI-AutoDriveEnhanced-Settings-putElbowOnWindow-label": "창문에 팔 올리기",
+  "UI-AutoDriveEnhanced-Settings-restrictVehicles-desc": "CanAutoDrive 태그가 있는 차량만 자동 주행할 수 있도록 제한합니다. 기본 대상은 플레이어의 델라메인과 레이필드 차량입니다. restrict_vehicles.yaml을 참고하세요.",
+  "UI-AutoDriveEnhanced-Settings-restrictVehicles-label": "자동 주행 가능 차량 제한"
+}

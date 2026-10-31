@@ -1,0 +1,442 @@
+[
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-SwitchSeats",
+    "femaleVariant": "좌석 바꾸기"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-ModdedNormalAI",
+    "femaleVariant": "모드 적용 일반 AI"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-ModdedTrafficAI",
+    "femaleVariant": "모드 적용 교통 AI"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-OldVanilla230AI",
+    "femaleVariant": "구형 바닐라 AI (v2.30)"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-SwitchAI_ToVanilla",
+    "femaleVariant": "AI를 바닐라로 전환"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-SwitchAI_ToModdedNormal",
+    "femaleVariant": "AI를 모드 적용 일반으로 전환"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-SwitchAI_ToModdedTraffic",
+    "femaleVariant": "AI를 모드 적용 교통으로 전환"
+  },
+  {
+    "secondaryKey": "Gameplay-AutoDriveEnhanced-SwitchAI_ToOldVanilla230",
+    "femaleVariant": "AI를 구형 바닐라(v2.30)로 전환"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-GeneralCategory-label",
+    "femaleVariant": "일반"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchSeats-label",
+    "femaleVariant": "좌석 바꾸기 가능"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchSeats-desc",
+    "femaleVariant": "좌석 바꾸기 가능"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unmountJohnny-label",
+    "femaleVariant": "조니가 탑승 중이면 하차"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unmountJohnny-desc",
+    "femaleVariant": "좌석 전환 시 조니가 탑승 중이면 하차"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-dontSwitchSeatsAutoOnEntering-label",
+    "femaleVariant": "운전석으로 자동 전환 안 함"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-dontSwitchSeatsAutoOnEntering-desc",
+    "femaleVariant": "플레이어의 차량에 탑승할 때 운전석으로 자동 전환 안 함"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictPlayersVehicle-label",
+    "femaleVariant": "플레이어의 차량 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictPlayersVehicle-desc",
+    "femaleVariant": "플레이어의 차량 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictNotInCombat-label",
+    "femaleVariant": "비전투 시 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictNotInCombat-desc",
+    "femaleVariant": "비전투 시 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictVehicleHealth-label",
+    "femaleVariant": "차량 내구도 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictVehicleHealth-desc",
+    "femaleVariant": "차량 내구도 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictValidLane-label",
+    "femaleVariant": "주행 가능 차선 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictValidLane-desc",
+    "femaleVariant": "주행 가능 차선 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictUnsavable-label",
+    "femaleVariant": "저장 불가 상태 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-unrestrictUnsavable-desc",
+    "femaleVariant": "저장 불가 상태 제한 해제"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-restrictVehicles-label",
+    "femaleVariant": "자동 주행 가능 차량 제한"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-restrictVehicles-desc",
+    "femaleVariant": "CanAutoDrive 태그가 있는 차량만 자동 주행할 수 있도록 제한합니다. 기본 대상은 플레이어의 델라메인과 레이필드 차량입니다. restrict_vehicles.yaml을 참고하세요."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-putElbowOnWindow-label",
+    "femaleVariant": "창문에 팔 올리기"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-putElbowOnWindow-desc",
+    "femaleVariant": "창문에 팔을 올립니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAICategory-label",
+    "femaleVariant": "주행 AI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI-label",
+    "femaleVariant": "주행 AI(실험적)"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI-desc",
+    "femaleVariant": "주행 AI(실험적)"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI.Vanilla-label",
+    "femaleVariant": "바닐라"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI.ModdedNormalAI-label",
+    "femaleVariant": "모드 적용 일반 AI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI.ModdedTrafficAI-label",
+    "femaleVariant": "모드 적용 교통 AI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-drivingAI.OldVanilla230-label",
+    "femaleVariant": "구형 바닐라 AI (v2.30)"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToNormalAIByInput-label",
+    "femaleVariant": "키 입력으로 모드 적용 일반 AI 전환 가능"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToNormalAIByInput-desc",
+    "femaleVariant": "키 입력으로 모드 적용 일반 AI로 전환할 수 있습니다. 이 옵션을 꺼도 모드 설정에서 AI 전환이 가능합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToTrafficAIByInput-label",
+    "femaleVariant": "키 입력으로 모드 적용 교통 AI 전환 가능"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToTrafficAIByInput-desc",
+    "femaleVariant": "키 입력으로 모드 적용 교통 AI로 전환할 수 있습니다. 이 옵션을 꺼도 모드 설정에서 AI 전환이 가능합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToOldVanila230AIByInput-label",
+    "femaleVariant": "단축키로 구형 바닐라(v2.30) AI 전환 허용"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-canSwitchToOldVanila230AIByInput-desc",
+    "femaleVariant": "단축키로 구형 바닐라(v2.30) AI로 전환할 수 있습니다. 꺼도 모드 설정에서는 AI를 변경할 수 있습니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAICategory-label",
+    "femaleVariant": "모드 적용 일반 AI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-TicksTimeout-label",
+    "femaleVariant": "틱 제한 시간"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-TicksTimeout-desc",
+    "femaleVariant": "자동 주행 동작 1회 허용 시간"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-ClearTrafficOnPath-label",
+    "femaleVariant": "경로상의 차량 제거"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-ClearTrafficOnPath-desc",
+    "femaleVariant": "경로상의 차량 제거"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-AutoSpeedControl-label",
+    "femaleVariant": "자동 속도 제어"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-AutoSpeedControl-desc",
+    "femaleVariant": "차량 사양에 따라 속도를 자동으로 제어합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-AutoSpeedControlMaxSpeedRatio-label",
+    "femaleVariant": "최대 주행 속도 비율"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-AutoSpeedControlMaxSpeedRatio-desc",
+    "femaleVariant": "최대 주행 속도를 차량 최고 속도 대비 비율로 지정합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingDistance-label",
+    "femaleVariant": "시작 거리"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingDistance-desc",
+    "femaleVariant": "출발 구간으로 간주하는 거리입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingMaxSpeed-label",
+    "femaleVariant": "출발 구간 최대 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingMaxSpeed-desc",
+    "femaleVariant": "출발 지점으로부터 시작 거리 내에서의 최대 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingMinSpeed-label",
+    "femaleVariant": "출발 구간 최소 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StartingMinSpeed-desc",
+    "femaleVariant": "출발 지점으로부터 시작 거리 내에서의 최소 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-CruisingMaxSpeed-label",
+    "femaleVariant": "주행 구간 최대 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-CruisingMaxSpeed-desc",
+    "femaleVariant": "출발/정지를 제외한 구간에서의 최대 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-CruisingMinSpeed-label",
+    "femaleVariant": "주행 구간 최소 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-CruisingMinSpeed-desc",
+    "femaleVariant": "출발/정지를 제외한 구간에서의 최소 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingDistance-label",
+    "femaleVariant": "정지 구간 거리"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingDistance-desc",
+    "femaleVariant": "정지 구간 거리입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingMaxSpeed-label",
+    "femaleVariant": "정지 구간 최대 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingMaxSpeed-desc",
+    "femaleVariant": "정지 지점으로부터 정지 거리 내에서의 최대 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingMinSpeed-label",
+    "femaleVariant": "정지 구간 최소 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-StoppingMinSpeed-desc",
+    "femaleVariant": "정지 지점으로부터 정지 거리 내에서의 최소 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeBase-label",
+    "femaleVariant": "기본 제동 시간"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeBase-desc",
+    "femaleVariant": "정지 시 제동 시간의 기본값 'braking time(sec) = [base] + ([speedFactor]*speed/16 * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeSpeedFactor-label",
+    "femaleVariant": "제동 시간 속도 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeSpeedFactor-desc",
+    "femaleVariant": "정지 시 제동 시간의 속도 계수 'braking time(sec) = [base] + ([speedFactor]*speed/16 * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeMassFactor-label",
+    "femaleVariant": "제동 시간 질량 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeMassFactor-desc",
+    "femaleVariant": "정지 시 제동 시간의 질량 계수 'braking time(sec) = [base] + ([speedFactor]*speed/16 * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeBrakingTorqueFactor-label",
+    "femaleVariant": "제동 시간 제동 토크 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-BrakeTimeBrakingTorqueFactor-desc",
+    "femaleVariant": "정지 시 제동 시간의 제동 토크 계수 'braking time(sec) = [base] + ([speedFactor]*speed/16 * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedCategory-label",
+    "femaleVariant": "모드 적용 일반 AI - 속도 동기화"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeed-label",
+    "femaleVariant": "앞차와 속도 동기화"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeed-desc",
+    "femaleVariant": "앞차와 속도를 동기화합니다. 'Clear Traffic On Path'가 켜져 있으면 천천히 추월합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedBaseGap-label",
+    "femaleVariant": "주행 중 차량 간 기본 간격"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedBaseGap-desc",
+    "femaleVariant": "주행 중 차량 간 기본 간격. 'gap = [base] + ([speedFactor]*speed * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForSpeed-label",
+    "femaleVariant": "주행 중 추가 간격의 속도 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForSpeed-desc",
+    "femaleVariant": "주행 중 추가 간격의 속도 계수. 'gap = [base] + ([speedFactor]*speed * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForMass-label",
+    "femaleVariant": "주행 중 추가 간격의 질량 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForMass-desc",
+    "femaleVariant": "주행 중 추가 간격의 질량 계수. 'gap = [base] + ([speedFactor]*speed * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForBrake-label",
+    "femaleVariant": "주행 중 추가 간격의 제동 토크 계수"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedAddGapForBrake-desc",
+    "femaleVariant": "주행 중 추가 간격의 제동 토크 계수. 'gap = [base] + ([speedFactor]*speed * [massFactor]*mass/1000 * [brakingTorqueFactor]*400/brakingTorque)'"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedGapForStopApproaching-label",
+    "femaleVariant": "접근 중지 기준 간격"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedGapForStopApproaching-desc",
+    "femaleVariant": "접근을 멈추는 차량 간 간격입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedApproachingSpeed-label",
+    "femaleVariant": "접근 속도"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedNormalAI-SyncSpeedApproachingSpeed-desc",
+    "femaleVariant": "접근 속도입니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedTrafficAICategory-label",
+    "femaleVariant": "모드 적용 교통 AI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedTrafficAI-stoppingDistanceForTrafficAI-label",
+    "femaleVariant": "정지 구간 거리"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-DrivingAI-ModdedTrafficAI-stoppingDistanceForTrafficAI-desc",
+    "femaleVariant": "정지 구간 거리"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-UICategory-label",
+    "femaleVariant": "UI"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-showSwitchSeatsInputHint-label",
+    "femaleVariant": "좌석 바꾸기 입력 힌트 표시"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-showSwitchSeatsInputHint-desc",
+    "femaleVariant": "좌석 바꾸기 입력 힌트 표시"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-showSwitchAIInputHint-label",
+    "femaleVariant": "AI 전환 입력 힌트 표시"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-showSwitchAIInputHint-desc",
+    "femaleVariant": "AI 전환 입력 힌트 표시"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-KeybindsCategory-label",
+    "femaleVariant": "키 바인딩"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-ADE_SwitchSeats_Key-label",
+    "femaleVariant": "좌석 바꾸기"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-ADE_SwitchSeats_Key-desc",
+    "femaleVariant": "좌석 바꾸기"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-ADE_SwitchAI_Key-label",
+    "femaleVariant": "AI 전환"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-ADE_SwitchAI_Key-desc",
+    "femaleVariant": "AI 전환"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-CheatCategory-label",
+    "femaleVariant": "치트"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-noDamage-label",
+    "femaleVariant": "자동 주행 중 피해 무효화"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-noDamage-desc",
+    "femaleVariant": "자동 주행 중 피해를 받지 않습니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-lockHeatLevel-label",
+    "femaleVariant": "자동 주행 중 수배 수준 고정"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-lockHeatLevel-desc",
+    "femaleVariant": "자동 주행 중 수배 수준을 고정해 수배되지 않도록 합니다."
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-disableCheatsInCombat-label",
+    "femaleVariant": "전투 중 치트 비활성화"
+  },
+  {
+    "secondaryKey": "UI-AutoDriveEnhanced-Settings-disableCheatsInCombat-desc",
+    "femaleVariant": "전투 중에는 치트 기능을 비활성화합니다."
+  }
+]
