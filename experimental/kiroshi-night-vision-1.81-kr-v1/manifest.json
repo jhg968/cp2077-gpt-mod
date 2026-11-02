@@ -1,0 +1,20 @@
+{
+  "upstream_version": "1.81",
+  "translation_only": true,
+  "init_lua_included": false,
+  "core_nil_bug_modified": false,
+  "luajit_syntax": "passed",
+  "native_settings_mock_comparison": "passed",
+  "game_runtime_tested": false,
+  "zip_sha256": "feec1c25fa5da52ffb59c80922d6effe9182a1db4476820d66c21147c30c7d6d",
+  "files": {
+    "settingsUI.lua": {
+      "source_sha256": "8622adaca3d17e3c88b7d7cffec258bd22b8dec7a650062b85279b1956aba1b3",
+      "patched_sha256": "d275f98ea72cb6fa85d52384754626b5847b21eb19df5eed019d4ab0211b9f01"
+    },
+    "item_data.lua": {
+      "source_sha256": "b3cc531868558ed9e1fd99193cd37c3028f0372a97b97936b3a31b2b1baa105a",
+      "patched_sha256": "7c267fa2ca0bdde8e70e138e8a5b1c7e119e0e19d0a108374a8b362996cc1cd7"
+    }
+  }
+}
