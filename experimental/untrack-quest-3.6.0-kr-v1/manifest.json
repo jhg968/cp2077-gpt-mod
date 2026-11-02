@@ -1,0 +1,10 @@
+{
+  "upstream_version": "3.6.0",
+  "translation_only": true,
+  "existing_translations": 104,
+  "new_translations": 4,
+  "game_runtime_tested": false,
+  "shipped_loader_merge": "passed",
+  "json_sha256": "55f5e3448274a2a5ad95f59901a56fb568de59c6cf93e6ff5f1febe6666fa626",
+  "zip_sha256": "7be521be765ff26921d5aa6e1cff76ae0485e946846bac94796a871a4ca39bb6"
+}

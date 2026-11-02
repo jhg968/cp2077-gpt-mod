@@ -1,0 +1,11 @@
+{
+  "upstream_version": "3.6.0",
+  "existing_string_count": 104,
+  "new_string_count": 4,
+  "total_string_count": 108,
+  "old_strings_preserved": true,
+  "new_setting": "patchMq061Quests",
+  "upstream_default_enabled": true,
+  "shipped_loader_merge_test": "passed",
+  "game_runtime_tested": false
+}
