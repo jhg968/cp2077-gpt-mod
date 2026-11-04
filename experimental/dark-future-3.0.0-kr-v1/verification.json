@@ -1,0 +1,27 @@
+{
+  "version": "3.0.0-for-2.5",
+  "main_entries": 1072,
+  "new_main_keys": 231,
+  "updated_existing_main_keys": 58,
+  "retained_existing_main_keys": 783,
+  "retired_legacy_keys": 77,
+  "main_subtitles": 20,
+  "consumable_entries": 51,
+  "relax_ui_entries": 13,
+  "relax_subtitles": 51,
+  "settings_localization_keys_found": 383,
+  "checks": {
+    "all_latest_main_keys_and_order": true,
+    "all_named_placeholders_preserved": true,
+    "new_and_reviewed_markup_tag_order_preserved": true,
+    "all_resources_roundtrip": true,
+    "archive_checksums_and_segments": true,
+    "onscreens_already_registered_by_original_xl": true,
+    "subtitle_map_targets_valid": true,
+    "no_functional_script_overrides": true,
+    "all_active_setting_display_annotations_covered": true,
+    "new_and_reviewed_rich_text_literal_linebreaks": true
+  },
+  "limitations": "Static resource validation only; REDscript compilation and in-game UI/runtime not executed.",
+  "settings_localization_keys_verified": 378
+}
