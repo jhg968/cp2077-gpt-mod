@@ -1,0 +1,20 @@
+{
+  "mod_version": "0.05.0",
+  "translation_entries": 152,
+  "checks": {
+    "exact_english_key_coverage": true,
+    "lua_syntax": true,
+    "official_i18n_loader_accepts_all_entries_without_fallback": true,
+    "format_signatures_and_string_format": true,
+    "english_french_korean_switching": true,
+    "unknown_key_fallback": true,
+    "imgui_id_suffix_preserved": true,
+    "utf8_without_bom": true,
+    "overlay_has_language_files_only": true
+  },
+  "runtime_validation": "Official cmb_i18n.lua executed in LuaJIT; game and CET UI not executed",
+  "input_sha256": {
+    "latest_init.lua": "dbe98c47af6d081f0719ae3139f7e45c7ac551133dcc50cfdd50dc14a857cbf5",
+    "old_kr_init.lua": "04de14de019e83d489cc6721383dbb63378c2eee671b20a689f2e2f4688384df"
+  }
+}
