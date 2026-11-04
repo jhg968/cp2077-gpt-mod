@@ -1,0 +1,36 @@
+{
+  "version": "2.4",
+  "translation_keys": 271,
+  "updated_translations": 12,
+  "removed_obsolete_translation_keys": 5,
+  "original_settings_schema": 6,
+  "old_kr_settings_schema": 4,
+  "checks": {
+    "all_canonical_english_keys_covered": true,
+    "only_localized_strings_changed_in_latest_package_skeleton": true,
+    "korean_provider_registration": true,
+    "native_ui_actual_LuaJIT_load": true,
+    "all_requested_keys_resolved": true,
+    "no_settings_writes_during_build": true,
+    "functional_files_excluded": true
+  },
+  "ui_mock_runs": [
+    {
+      "hit_model_mode": 0,
+      "ui_calls": 132,
+      "lookup_count": 259
+    },
+    {
+      "hit_model_mode": 1,
+      "ui_calls": 137,
+      "lookup_count": 269
+    },
+    {
+      "hit_model_mode": 2,
+      "ui_calls": 138,
+      "lookup_count": 271
+    }
+  ],
+  "unique_requested_localization_keys": 271,
+  "limitations": "Original UI and localizer executed with mocked Native Settings and game localization; REDscript compile and actual UI/gameplay not executed."
+}

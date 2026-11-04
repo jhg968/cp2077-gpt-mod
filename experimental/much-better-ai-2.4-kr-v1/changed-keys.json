@@ -1,0 +1,14 @@
+[
+  "Description-MBAI-MarksmanshipAccuracy",
+  "Description-MBAI-FootworkOpportunityReposition",
+  "Description-MBAI-FireteamCombatPropagation",
+  "Description-MBAI-FireteamCombatPropagationRange",
+  "Description-MBAI-NerveBreakThreshold",
+  "Description-MBAI-PunishChanceMult",
+  "Description-MBAI-FireteamFlankMult",
+  "Description-MBAI-NetrunnerCadenceMult",
+  "Description-MBAI-StealthSearchAggression",
+  "DisplayName-MBAI-AggressionRingCaps",
+  "Description-MBAI-AggressionRingCaps",
+  "Description-MBAI-EnableAggressionFloor"
+]
