@@ -1,0 +1,10 @@
+{
+  "upstream_version": "2.2.3",
+  "translated_strings": 1,
+  "only_display_literal_changed_from_upstream": true,
+  "latest_public_declaration_preserved": true,
+  "runtime_compiled": false,
+  "source_sha256": "3233b4726a3e7efadf38c41a422623095e468c325311d831c86e453c83df28e0",
+  "patched_sha256": "b8cb209e49f299ba226786c7874cc7adfc8dd82df5de10b0a3c65c5cc551cb81",
+  "zip_sha256": "26ccc1d885722adaec76afb7f655172ddf8a1c1dbf745c438dc85dce1a22d45c"
+}
