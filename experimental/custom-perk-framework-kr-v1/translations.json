@@ -1,0 +1,14 @@
+{
+  "CPF-Level": " 레벨",
+  "CPF-StreetCred": " 평판",
+  "CPF-AttributePoints": "특성 포인트",
+  "CPF-PerkPoints": "특전 포인트",
+  "CPF-TreeNameDefault": "추가 특전",
+  "CPF-Attr-Body": "신체",
+  "CPF-Attr-Reflexes": "반사",
+  "CPF-Attr-Tech": "테크",
+  "CPF-Attr-Intelligence": "지능",
+  "CPF-Attr-Cool": "냉정",
+  "CPF-Footer": "모듈형 특전 확장 시스템",
+  "CPF-NoTrees": "설치된 특전 트리가 없습니다.\n\nCustom Perk Framework를 사용하는 모드를 설치하면 여기에 표시됩니다."
+}

@@ -1,0 +1,10 @@
+{
+  "source_metadata_version": "2.14.0.0",
+  "popup_translation_keys": 12,
+  "popup_override_included": false,
+  "click_tap_preserved": true,
+  "source_code_changes": "display literals only",
+  "lua_syntax_and_mock_settings": "passed",
+  "game_runtime_tested": false,
+  "zip_sha256": "738d3feb67517ae9b7d50d9c5eb87ae57112e94b238c2564556c9dc3350a2f03"
+}
