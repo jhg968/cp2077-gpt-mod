@@ -1,0 +1,30 @@
+{
+  "target_version": "7.3",
+  "latest_entries": 742,
+  "old_entries": 582,
+  "preserved_shared_entries": 582,
+  "unique_latest_keys": 741,
+  "duplicate_key_in_original_preserved": "DD.Tutorial.V4 (two entries, kept in original order)",
+  "new_entries": 160,
+  "audio_subtitle_entries": 20,
+  "retired_old_keys": [],
+  "new_gender_variants": [
+    "DD.Rank.DrugAllfather",
+    "DD.Rank.Short.DrugAllfather",
+    "DD.Yukmouth.Message.YukmouthRaidCityCenterReply",
+    "DD.Yukmouth.Message.YukmouthClientQuestActive"
+  ],
+  "settings_keys_covered": 83,
+  "checks": {
+    "rebuilt_resource_roundtrip": true,
+    "archive_index_and_segment_integrity": true,
+    "all_numbered_placeholders_preserved": true,
+    "latest_key_order_and_gender_fields": true,
+    "map_script_only_display_changes": true,
+    "settings_script_not_overridden": true,
+    "legacy_audioware_config_not_included": true,
+    "drug_effect_numeric_values_and_durations": true,
+    "audio_manifest_only_kr_subtitles_added": true
+  },
+  "limitations": "Static resource checks only; REDscript compile and in-game localization/audio not tested."
+}

@@ -1,0 +1,308 @@
+{
+  "sounds": [
+    {
+      "name": "dd_drug_deal_w",
+      "type": "mod_sfx_2d",
+      "file": "dd_drug_deal_w.mp3",
+      "gain": 0.8
+    },
+    {
+      "name": "dd_drug_deal_l",
+      "type": "mod_sfx_2d",
+      "file": "dd_drug_deal_l.mp3",
+      "gain": 2.0
+    },
+    {
+      "name": "dd_partial_drug_deal",
+      "type": "mod_sfx_2d",
+      "file": "dd_partial_drug_deal.mp3",
+      "gain": 1.2
+    },
+    {
+      "name": "dd_big_drug_deal_w",
+      "type": "mod_sfx_2d",
+      "file": "dd_big_drug_deal_w.mp3",
+      "gain": 1.0
+    },
+    {
+      "name": "dd_raid_w",
+      "type": "mod_sfx_2d",
+      "file": "dd_raid_w.mp3",
+      "gain": 0.8
+    },
+    {
+      "name": "dd_product_prepared",
+      "type": "mod_sfx_2d",
+      "file": "dd_product_prepared.mp3",
+      "gain": 0.8
+    },
+    {
+      "name": "dd_crackhouse_w",
+      "type": "mod_sfx_2d",
+      "file": "dd_crackhouse_w.mp3",
+      "gain": 0.8
+    },
+    {
+      "name": "dd_ncpd_drug_bust",
+      "type": "mod_sfx_2d",
+      "file": "dd_ncpd_drug_bust.mp3",
+      "gain": 0.5
+    },
+    {
+      "name": "dd_lab_ambush",
+      "type": "mod_sfx_2d",
+      "file": "dd_lab_ambush.mp3",
+      "gain": 0.7
+    },
+    {
+      "name": "dd_terror",
+      "type": "mod_sfx_2d",
+      "file": "dd_terror.mp3",
+      "gain": 2.0
+    },
+    {
+      "name": "dd_supply",
+      "type": "mod_sfx_2d",
+      "file": "dd_supply.mp3",
+      "gain": 0.7
+    },
+    {
+      "name": "dd_assassination",
+      "type": "mod_sfx_2d",
+      "file": "dd_assassination.mp3",
+      "gain": 1.2
+    },
+    {
+      "name": "dd_nightmarket",
+      "type": "mod_sfx_2d",
+      "file": "dd_nightmarket.mp3",
+      "gain": 1.2
+    },
+    {
+      "name": "dd_allies",
+      "type": "mod_sfx_2d",
+      "file": "dd_allies.mp3",
+      "gain": 0.5
+    },
+    {
+      "name": "dd_voice_ambush_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_ambush.mp3",
+      "subtitle": {
+        "en-us": "Fan-fucking-tastic.",
+        "kr-kr": "존나 끝내주네."
+      }
+    },
+    {
+      "name": "dd_voice_ambush_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_ambush.mp3",
+      "subtitle": {
+        "en-us": "Aww, fuck!",
+        "kr-kr": "아, 씨발!"
+      }
+    },
+    {
+      "name": "dd_voice_crackhouse_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_crackhouse.mp3",
+      "subtitle": {
+        "en-us": "Nice place.",
+        "kr-kr": "장소 괜찮네."
+      }
+    },
+    {
+      "name": "dd_voice_crackhouse_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_crackhouse.mp3",
+      "subtitle": {
+        "en-us": "Well, I... I gotta do somethin'.",
+        "kr-kr": "그래도... 뭐라도 해야지."
+      }
+    },
+    {
+      "name": "dd_voice_failed_deal_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_failed_deal.mp3",
+      "subtitle": {
+        "en-us": "Oh well, I tried.",
+        "kr-kr": "뭐, 난 해볼 만큼 해봤어."
+      }
+    },
+    {
+      "name": "dd_voice_failed_deal_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_failed_deal.mp3",
+      "subtitle": {
+        "en-us": "Welp, I tried.",
+        "kr-kr": "뭐, 해볼 만큼 해봤지."
+      }
+    },
+    {
+      "name": "dd_voice_deal_with_fiend_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_deal_with_fiend.mp3",
+      "subtitle": {
+        "en-us": "Thank fuck my biz with you is done. Want nothin' to do with you.",
+        "kr-kr": "너랑 거래 끝나서 천만다행이야. 너랑은 엮이고 싶지도 않아."
+      }
+    },
+    {
+      "name": "dd_voice_deal_with_fiend_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_deal_with_fiend.mp3",
+      "subtitle": {
+        "en-us": "Thank fuck my biz with you is done. Want nothin' to do with you.",
+        "kr-kr": "너랑 거래 끝나서 천만다행이야. 너랑은 엮이고 싶지도 않아."
+      }
+    },
+    {
+      "name": "dd_voice_raid_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_raid.mp3",
+      "subtitle": {
+        "en-us": "No more nice V.",
+        "kr-kr": "착한 V는 여기까지야."
+      }
+    },
+    {
+      "name": "dd_voice_raid_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_raid.mp3",
+      "subtitle": {
+        "en-us": "What did you make of me?",
+        "kr-kr": "나를 뭐로 만들어 놓은 거야?"
+      }
+    },
+    {
+      "name": "dd_voice_drug_bust_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_drug_bust.mp3",
+      "subtitle": {
+        "en-us": "Fuck!",
+        "kr-kr": "씨발!"
+      }
+    },
+    {
+      "name": "dd_voice_drug_bust_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_drug_bust.mp3",
+      "subtitle": {
+        "en-us": "Aw, fuck!",
+        "kr-kr": "아, 씨발!"
+      }
+    },
+    {
+      "name": "dd_voice_terror_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_terror.mp3",
+      "subtitle": {
+        "en-us": "I'ma fucking destroy you.",
+        "kr-kr": "널 아주 박살 내주겠어."
+      }
+    },
+    {
+      "name": "dd_voice_terror_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_terror.mp3",
+      "subtitle": {
+        "en-us": "Hmph. Till then, I guess.",
+        "kr-kr": "흥. 그때까진 참아야겠군."
+      }
+    },
+    {
+      "name": "dd_voice_supply_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_supply.mp3",
+      "subtitle": {
+        "en-us": "Just trouble - usual stuff.",
+        "kr-kr": "그냥 골칫거리야. 늘 그렇지."
+      }
+    },
+    {
+      "name": "dd_voice_supply_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_supply.mp3",
+      "subtitle": {
+        "en-us": "Ehh, pick up somethin' here and there. Nothin' major.",
+        "kr-kr": "뭐, 여기저기서 조금씩 챙겼어. 별건 아니야."
+      }
+    },
+    {
+      "name": "dd_voice_assassination_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_assassination.mp3",
+      "subtitle": {
+        "en-us": "Just makes you a killer, that's all.",
+        "kr-kr": "그냥 네가 살인자라는 뜻일 뿐이야."
+      }
+    },
+    {
+      "name": "dd_voice_assassination_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_assassination.mp3",
+      "subtitle": {
+        "en-us": "It just makes you a killer, that's all.",
+        "kr-kr": "그냥 네가 살인자라는 뜻일 뿐이지."
+      }
+    },
+    {
+      "name": "dd_voice_allies_f",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_f_allies.mp3",
+      "subtitle": {
+        "en-us": "Got a fight lined up here.",
+        "kr-kr": "여기서 한판 붙을 일이 생겼어."
+      }
+    },
+    {
+      "name": "dd_voice_allies_m",
+      "type": "axl_voice_2d",
+      "speaker": "V",
+      "gain": 1.0,
+      "file": "dd_voice_m_allies.mp3",
+      "subtitle": {
+        "en-us": "Got a fight lined up here.",
+        "kr-kr": "여기서 한판 붙을 일이 생겼어."
+      }
+    }
+  ]
+}
