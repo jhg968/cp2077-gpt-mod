@@ -1,0 +1,57 @@
+[
+  {
+    "primaryKey": 665599101,
+    "secondaryKey": "nq_1_more_light_title",
+    "femaleVariant": "또 하나의 빛"
+  },
+  {
+    "primaryKey": 665599102,
+    "secondaryKey": "nq_1_more_light_step_1",
+    "femaleVariant": "납골당에서 재키의 봉안함 찾기"
+  },
+  {
+    "primaryKey": 665599103,
+    "secondaryKey": "nq_1_more_light_step_1_desc",
+    "femaleVariant": "내가 원래라면 기술적으로는 죽은 몸이거든, 그래서 납골당에 가는 건 마음이 편치 않아… 하지만 재키는 네 절친이었잖아. 그 친구에게 하고 싶은 말들이 분명 있을 테니, 가서 그렇게 해."
+  },
+  {
+    "primaryKey": 665599104,
+    "secondaryKey": "nq_1_more_light_step_2",
+    "femaleVariant": "재키와 대화하기"
+  },
+  {
+    "primaryKey": 665599105,
+    "secondaryKey": "nq_1_more_light_msg_1",
+    "femaleVariant": "오프렌다에 와 줘서 고맙구나, V."
+  },
+  {
+    "primaryKey": 665599106,
+    "secondaryKey": "nq_1_more_light_msg_2",
+    "femaleVariant": "알려두려고, 납골당에 재키의 자리를 마련해 두었단다"
+  },
+  {
+    "primaryKey": 665599107,
+    "secondaryKey": "nq_1_more_light_msg_ch_1",
+    "femaleVariant": "저를 오프렌다에 초대해주신 것도, 그리고 납골당 소식도 알려 주셔서 정말 감사해요"
+  },
+  {
+    "primaryKey": 665599108,
+    "secondaryKey": "nq_1_more_light_msg_title",
+    "femaleVariant": "고맙구나, V"
+  },
+  {
+    "primaryKey": 665599109,
+    "secondaryKey": "nq_1_more_light_msg_3",
+    "femaleVariant": "물론이지, V. 가서 그 아이를 만나고, 못다 한 이야기도 나누렴."
+  },
+  {
+    "primaryKey": 665599110,
+    "secondaryKey": "nq_1_more_light_msg_4",
+    "femaleVariant": "그리고 가끔은 집에 놀러 오렴. 여긴 언제든 널 환영하니까."
+  },
+  {
+    "primaryKey": 665599111,
+    "secondaryKey": "nq_1_more_light_grave",
+    "femaleVariant": "재키의 납골당"
+  }
+]

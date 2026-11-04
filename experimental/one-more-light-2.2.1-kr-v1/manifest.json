@@ -1,0 +1,10 @@
+{
+  "upstream_version": "2.2.1",
+  "translated_entries": 11,
+  "numeric_ids_updated": 11,
+  "locale": "kr-kr",
+  "translation_only": true,
+  "game_runtime_tested": false,
+  "zip_sha256": "439d872985aa701429923e54cc35667a79d5872fc96ea4748691f31c2cde95dc",
+  "archive_sha256": "38c476aab046e2cecf33df70f5361ebb22115a47f2ee8be1ac3941ccb9be6b08"
+}

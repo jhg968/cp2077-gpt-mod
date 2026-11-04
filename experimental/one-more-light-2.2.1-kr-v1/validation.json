@@ -1,0 +1,66 @@
+{
+  "version": "2.2.1",
+  "entries": 11,
+  "id_changes": [
+    {
+      "key": "nq_1_more_light_title",
+      "old_id": 99101,
+      "new_id": 665599101
+    },
+    {
+      "key": "nq_1_more_light_step_1",
+      "old_id": 99102,
+      "new_id": 665599102
+    },
+    {
+      "key": "nq_1_more_light_step_1_desc",
+      "old_id": 99103,
+      "new_id": 665599103
+    },
+    {
+      "key": "nq_1_more_light_step_2",
+      "old_id": 99104,
+      "new_id": 665599104
+    },
+    {
+      "key": "nq_1_more_light_msg_1",
+      "old_id": 99105,
+      "new_id": 665599105
+    },
+    {
+      "key": "nq_1_more_light_msg_2",
+      "old_id": 99106,
+      "new_id": 665599106
+    },
+    {
+      "key": "nq_1_more_light_msg_ch_1",
+      "old_id": 99107,
+      "new_id": 665599107
+    },
+    {
+      "key": "nq_1_more_light_msg_title",
+      "old_id": 99108,
+      "new_id": 665599108
+    },
+    {
+      "key": "nq_1_more_light_msg_3",
+      "old_id": 99109,
+      "new_id": 665599109
+    },
+    {
+      "key": "nq_1_more_light_msg_4",
+      "old_id": 99110,
+      "new_id": 665599110
+    },
+    {
+      "key": "nq_1_more_light_grave",
+      "old_id": 99111,
+      "new_id": 665599111
+    }
+  ],
+  "typo_fix": "놀려오렴 → 놀러 오렴",
+  "archive_resources": [
+    "base\\localization\\kr-kr\\onemorelight.json"
+  ],
+  "game_runtime_tested": false
+}
