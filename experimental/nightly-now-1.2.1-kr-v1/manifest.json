@@ -1,0 +1,11 @@
+{
+  "upstream_version": "1.2.1",
+  "localization_entries": 16,
+  "new_localization_entries": 3,
+  "holo_display_literals": 2,
+  "settings_override_included": false,
+  "game_runtime_tested": false,
+  "zip_sha256": "30277d1ad90e7c746c68f9fdf27153db4580b9590103ca416c55d8be243bf4ff",
+  "archive_sha256": "c8ef0b2ad1661bbeb18d43b075d6e35756d208200d735c2756389350a81e9e50",
+  "holo_sha256": "223a551d1b63fb72f1b18188718e3d7e3ba2148ed56448d658a67c255d1dcd2d"
+}

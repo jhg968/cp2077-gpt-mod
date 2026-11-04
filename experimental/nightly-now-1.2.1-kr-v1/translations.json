@@ -1,0 +1,66 @@
+[
+  {
+    "secondaryKey": "NightlyNow.Settings.Name",
+    "femaleVariant": "NightlyNow 코어"
+  },
+  {
+    "secondaryKey": "NN.Settings.UI",
+    "femaleVariant": "UI"
+  },
+  {
+    "secondaryKey": "NN.Settings.UI.Scale",
+    "femaleVariant": "UI 크기"
+  },
+  {
+    "secondaryKey": "NN.Settings.UI.Scale.Description",
+    "femaleVariant": "Drug Dealer, Punish Cruelty, Injuries 등 지원 모드의 UI 크기를 조절합니다."
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget",
+    "femaleVariant": "UI 정보 위젯"
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.Enable",
+    "femaleVariant": "정보 위젯 활성화"
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.Enable.Description",
+    "femaleVariant": "보너스, 페널티, 경고 같은 상황별 정보를 표시합니다."
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.PositionX",
+    "femaleVariant": "X 위치"
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.PositionX.Description",
+    "femaleVariant": "X축 상대 위치입니다. 음수는 왼쪽, 양수는 오른쪽으로 이동합니다."
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.PositionY",
+    "femaleVariant": "Y 위치"
+  },
+  {
+    "secondaryKey": "NN.Settings.InformationWidget.PositionY.Description",
+    "femaleVariant": "Y축 상대 위치입니다. 음수는 위쪽, 양수는 아래쪽으로 이동합니다. 변경 후 다시 불러와야 적용됩니다."
+  },
+  {
+    "secondaryKey": "NN.Settings.ProgressBar",
+    "femaleVariant": "UI 진행 바"
+  },
+  {
+    "secondaryKey": "NN.Settings.ProgressBar.Enable",
+    "femaleVariant": "진행 바 활성화"
+  },
+  {
+    "secondaryKey": "NN.Settings.ProgressBar.Enable.Description",
+    "femaleVariant": "상황별 진행 바를 표시합니다."
+  },
+  {
+    "secondaryKey": "NN.Settings.ProgressBar.PositionY",
+    "femaleVariant": "Y 위치"
+  },
+  {
+    "secondaryKey": "NN.Settings.ProgressBar.PositionY.Description",
+    "femaleVariant": "Y축 상대 위치입니다. 음수는 위쪽, 양수는 아래쪽으로 이동합니다. 변경 후 다시 불러와야 적용됩니다."
+  }
+]
