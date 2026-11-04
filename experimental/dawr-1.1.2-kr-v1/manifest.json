@@ -1,0 +1,9 @@
+{
+  "upstream_version": "1.1.2",
+  "translated_keys": 21,
+  "translation_only": true,
+  "locale": "kr-kr",
+  "game_runtime_tested": false,
+  "zip_sha256": "1a663a03b9af9898c063aa8e78fcc4fefe186aed8c80ceba76f2b60115d43be5",
+  "archive_sha256": "47effbd57d75ce319990cae47af1ef99ecbb39ee601d3365b2c018b3ddcf4a2f"
+}

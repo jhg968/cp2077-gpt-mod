@@ -1,0 +1,86 @@
+[
+  {
+    "secondaryKey": "DAWR_Recipe",
+    "femaleVariant": "제작 사양서"
+  },
+  {
+    "secondaryKey": "DAWR_Common",
+    "femaleVariant": "일반"
+  },
+  {
+    "secondaryKey": "DAWR_Uncommon",
+    "femaleVariant": "고급"
+  },
+  {
+    "secondaryKey": "DAWR_Rare",
+    "femaleVariant": "희귀"
+  },
+  {
+    "secondaryKey": "DAWR_Epic",
+    "femaleVariant": "영웅"
+  },
+  {
+    "secondaryKey": "DAWR_Legendary",
+    "femaleVariant": "전설"
+  },
+  {
+    "secondaryKey": "DAWR_Category_1",
+    "femaleVariant": "등급별 제작 사양서 획득 확률 (%)"
+  },
+  {
+    "secondaryKey": "DAWR_Enable",
+    "femaleVariant": "모드 활성화"
+  },
+  {
+    "secondaryKey": "DAWR_Enable_Desc",
+    "femaleVariant": "무기를 분해해 제작 사양서를 획득하는 기능을 켜거나 끕니다."
+  },
+  {
+    "secondaryKey": "DAWR_getLowerTier",
+    "femaleVariant": "하위 등급 제작 사양서도 획득"
+  },
+  {
+    "secondaryKey": "DAWR_getLowerTier_Desc",
+    "femaleVariant": "분해한 무기의 하위 등급에 해당하는 제작 사양서도 함께 획득합니다."
+  },
+  {
+    "secondaryKey": "DAWR_Category_2",
+    "femaleVariant": "능력치 및 스킬"
+  },
+  {
+    "secondaryKey": "DAWR_Tech_Affect",
+    "femaleVariant": "테크 능력 보너스 적용"
+  },
+  {
+    "secondaryKey": "DAWR_Tech_Affect_Desc",
+    "femaleVariant": "테크 능력이 제작 사양서 획득 확률에 영향을 주도록 설정합니다."
+  },
+  {
+    "secondaryKey": "DAWR_Eng_Affect",
+    "femaleVariant": "엔지니어 보너스 적용"
+  },
+  {
+    "secondaryKey": "DAWR_Eng_Affect_Desc",
+    "femaleVariant": "엔지니어 스킬이 제작 사양서 획득 확률에 영향을 주도록 설정합니다."
+  },
+  {
+    "secondaryKey": "DAWR_Tech_Factor",
+    "femaleVariant": "테크 능력 배율"
+  },
+  {
+    "secondaryKey": "DAWR_Tech_Factor_Desc",
+    "femaleVariant": "테크 능력이 3일 때 배율은 1이며, 테크 능력이 20에 도달하면 이 값까지 증가합니다."
+  },
+  {
+    "secondaryKey": "DAWR_Eng_Factor",
+    "femaleVariant": "엔지니어 배율"
+  },
+  {
+    "secondaryKey": "DAWR_Eng_Factor_Desc",
+    "femaleVariant": "엔지니어 스킬이 0일 때 배율은 1이며, 스킬 레벨이 60에 도달하면 이 값까지 증가합니다."
+  },
+  {
+    "secondaryKey": "DAWR_name",
+    "femaleVariant": "무기 분해 제작 사양서 (DAWR)"
+  }
+]
