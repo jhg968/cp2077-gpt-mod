@@ -1,0 +1,27 @@
+{
+  "version": "2.3.3",
+  "translated_strings": 19,
+  "checks": {
+    "reverse_translation_exactly_matches_latest": true,
+    "luajit_load_and_event_registration": true,
+    "ui_open_close_and_four_labels": true,
+    "male_leg_body_mask_224": true,
+    "rendering_parameter_serialization": true,
+    "save_applies_SetJson": true,
+    "delete_clears_SetJson": true,
+    "dump_current_json": true
+  },
+  "mock_results": {
+    "latest": {
+      "passed": true
+    },
+    "patched": {
+      "passed": true
+    },
+    "old_kr": {
+      "passed": false,
+      "error": "[string \"<python>\"]:68: Male leg mask missing\nstack traceback:\n\t[string \"<python>\"]:68: in function <[string \"<python>\"]:59>\n\t[C]: in function 'assert'"
+    }
+  },
+  "limitations": "Mocked Lua dependencies only; actual REDscript/CET/game rendering not executed."
+}
