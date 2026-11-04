@@ -1,0 +1,62 @@
+[
+  {
+    "upstream_tag": "Mod-KillCounter-UI-KilledEnemies",
+    "upstream_default": "Kills",
+    "korean": "처치한 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-KilledEnemies",
+    "upstream_default": "Killed Enemies",
+    "korean": "치명적으로 처치한 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-FinishedEnemies",
+    "upstream_default": "Finished Enemies",
+    "korean": "무력화된 적 처치"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DefeatedEnemies",
+    "upstream_default": "Defeated Enemies",
+    "korean": "비치명적 피해로 제압한 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-IncapacitatedEnemies",
+    "upstream_default": "Incapacitated Enemies",
+    "korean": "무력화시킨 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedEnemies",
+    "upstream_default": "Downed Enemies",
+    "korean": "쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithMelee",
+    "upstream_default": "Downed With Melee",
+    "korean": "근접 공격으로 쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithRanged",
+    "upstream_default": "Downed With Ranged",
+    "korean": "원거리 공격으로 쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithRanged",
+    "upstream_default": "Downed With Quickhacks",
+    "korean": "퀵핵으로 쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithRanged",
+    "upstream_default": "Downed With Takedowns",
+    "korean": "테이크다운으로 쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithRanged",
+    "upstream_default": "Downed With Non-Lethal Takedowns",
+    "korean": "은신 제압으로 쓰러뜨린 적"
+  },
+  {
+    "upstream_tag": "Mod-KillCounter-UI-DownedWithRanged",
+    "upstream_default": "Downed With Other",
+    "korean": "기타의 방법으로 쓰러뜨린 적"
+  }
+]

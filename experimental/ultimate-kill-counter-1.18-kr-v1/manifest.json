@@ -1,0 +1,12 @@
+{
+  "target_version": "1.18",
+  "original_files_overwritten": false,
+  "standalone_redscript_extension": true,
+  "translated_call_pairs": 12,
+  "wrapped_method": "DataTrackingSystem.LocalizeTag(String, String)",
+  "unrecognized_calls": "delegate to original",
+  "game_runtime_tested": false,
+  "source_sha256": "0af4af5717fe8865960c112b336f487010417ac42b942dd8f7fcf08dbac86d22",
+  "extension_sha256": "ce64dd1393f8d8b6c45a7bf745cbf727dfdd1b14fa379a7d4b25f4567481754d",
+  "zip_sha256": "e0b96256ea974bce4eac437ef43be47e5e57f14ce081469a77160a323d9da36a"
+}
