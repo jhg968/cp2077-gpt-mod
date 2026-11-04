@@ -1,0 +1,15 @@
+{
+  "version": "2.0.3",
+  "entries": 84,
+  "checks": {
+    "luajit_syntax_and_table_load": true,
+    "all_english_keys_covered": true,
+    "all_named_placeholders_preserved_and_substituted": true,
+    "original_language_loader_and_discovery": true,
+    "english_korean_switching": true,
+    "english_log_text_retained": true,
+    "missing_key_english_fallback": true,
+    "original_init_not_overridden": true
+  },
+  "limitations": "Original localization functions executed in LuaJIT with mocked file discovery; game, CET drawing and persistence not executed."
+}
