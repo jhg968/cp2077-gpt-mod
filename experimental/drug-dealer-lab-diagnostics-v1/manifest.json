@@ -1,0 +1,7 @@
+{
+  "artifact": "Drug-Dealer-7.3-Lab-ReadOnly-Diagnostics-v1.zip",
+  "sha256": "9be62a320e30b7d881c6faad29d9f96ef2d3110398f1c72b92a4e07d9b744d0c",
+  "purpose": "Read-only lab state diagnostics, not a fix",
+  "reference_mod_version": "7.3",
+  "validation": "LuaJIT mock only; game untested"
+}
