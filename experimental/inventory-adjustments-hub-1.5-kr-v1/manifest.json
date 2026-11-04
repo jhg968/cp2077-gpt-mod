@@ -1,0 +1,9 @@
+{
+  "artifact": "Inventory-Adjustments-Hub-1.5-KR-v1.zip",
+  "sha256": "4d2b5ddc689013b93163c318e2e1b1f216a040313180fcf9fc99d06fa56d6fc1",
+  "target_version": "1.5",
+  "keys": 209,
+  "game_files": [
+    "r6/scripts/InventoryAdjustmentsHub/locales/kr-kr.reds"
+  ]
+}

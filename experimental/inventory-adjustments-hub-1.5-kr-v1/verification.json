@@ -1,0 +1,21 @@
+{
+  "target_version": "1.5",
+  "entries": 209,
+  "added_keys_vs_bundled_korean": [
+    "IAH-Menu-ModName",
+    "IAH-Menu-Setting-Desc-Manufacturer",
+    "IAH-Menu-Setting-Desc-ModsWrappingCount",
+    "IAH-Menu-Setting-Name-Manufacturer",
+    "IAH-Menu-Setting-Name-ModsWrappingCount"
+  ],
+  "covered_config_keys": 158,
+  "checks": {
+    "english_template_key_order_and_coverage": true,
+    "only_text_values_changed_vs_latest_template_except_Korean_class_name": true,
+    "korean_provider_already_registered": true,
+    "all_config_localization_keys_covered": true,
+    "duplicate_keys_absent": true,
+    "string_escaping_and_format_tokens": true
+  },
+  "game_compilation": "Not run: Cyberpunk 2077/redscript compiler unavailable"
+}
