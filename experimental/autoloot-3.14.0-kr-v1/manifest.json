@@ -1,0 +1,7 @@
+{
+  "artifact": "Autoloot-3.14.0-KR-Update-v1.zip",
+  "sha256": "0800eab3b33249ac26d839a6a041cc1afb21f9d406e51c2b47c9ddcb0473c8f3",
+  "target_version": "3.14.0",
+  "existing_strings_retained": 56,
+  "new_strings": 14
+}

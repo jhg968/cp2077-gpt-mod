@@ -1,0 +1,17 @@
+{
+  "target_version": "3.14.0",
+  "old_header_version": "v3.7.7 (metadata only; not proof of installed original version)",
+  "visible_strings": 70,
+  "preserved_strings": 56,
+  "added_strings": 14,
+  "checks": {
+    "json_utf8_without_bom": true,
+    "official_lua_clone_merge_and_language_loader": true,
+    "korean_full_load_without_english_fallback": true,
+    "english_fallback_and_reload": true,
+    "existing_translations_preserved_verbatim": true,
+    "metadata_format_tokens_preserved": true,
+    "only_uiStrings_json_distributed": true
+  },
+  "limits": "Pure localization functions executed in LuaJIT with mocked JSON file reads/language selection. Game, CET drawing and Native Settings not executed."
+}

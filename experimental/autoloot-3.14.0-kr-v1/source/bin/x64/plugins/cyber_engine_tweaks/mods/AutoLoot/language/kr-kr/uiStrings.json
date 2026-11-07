@@ -1,0 +1,195 @@
+{
+  "fileHeader": {
+    "_1_": "----------------------------------------",
+    "modName": "Autoloot",
+    "modAuthorName": "keanuWheeze and anygoodname",
+    "modVer": "v3.14.0",
+    "_2_": "----------------------------------------",
+    "translationAuthorName": "기존 한국어 번역 기반 호환 업데이트",
+    "translationVer": "3.14.0-KR-v1",
+    "_3_": "----------------------------------------"
+  },
+  "uiStrings": {
+    "nuiUiStrings": {
+      "settings": {
+        "burstTriggerCooldownTime": {
+          "title": "최대 버스트 지속시간 (mm:ss)",
+          "tooltips": "버스트 루팅의 최대 지속시간을 설정합니다.\n참고: 변경 사항은 다음 버스트부터 적용됩니다."
+        },
+        "monitor_settings": "루팅 모니터 설정:",
+        "showDebugMonitorWindow": {
+          "title": "모니터 창 표시",
+          "tooltips": "현재 자동 루팅 상태를 보여주는 작은 모니터 창을 표시합니다.\n게임 설정 메뉴 방문 시 모니터 창이 숨겨질 수 있습니다."
+        },
+        "monitorType": {
+          "tooltips": "표시할 루팅 모니터의 유형을 선택합니다.",
+          "title": "모니터 유형 선택",
+          "choices": [
+            "CET 창",
+            "미니맵 표시",
+            "CET 창과 미니맵 표시"
+          ]
+        },
+        "showMonitorWindowOnlyWhenTriggerActive": {
+          "title": "루팅 트리거 활성 시에만 모니터 표시",
+          "tooltips": "루팅 트리거가 활성 상태(키/버튼 누름 또는 버스트 모드 활성)일 때에만 모니터를 표시합니다."
+        },
+        "autohideMonitorWindow": {
+          "title": "모니터 창 자동 숨김",
+          "tooltips": "활성화 시, 게임의 시네마틱 상태에 따라 모니터 창을 자동으로 숨기거나 표시합니다."
+        },
+        "limitOnLootAutosaves": {
+          "title": "자동 루팅 자동 저장 제한",
+          "tooltips": "자동 루팅 중 발생하는 불필요한 자동 저장을 크게 줄여 성능을 개선합니다. 일반 플레이로 발생하는 자동 저장은 유지됩니다.\n\n참고: 게임은 특정 아이템을 루팅할 때 자동 저장하도록 설계되어 있습니다.\n저장하는 동안 게임이 잠시 멈출 수 있으므로, 자동 저장을 제한하면 플레이가 더 원활해질 수 있습니다."
+        },
+        "exportOrder": [
+          "mod_info_header",
+          "mod_info_trigger_not_configured",
+          "mod_info",
+          "windowTitle",
+          "general_settings",
+          "range",
+          "useDefaultActionKey",
+          "enableTakedownLoot",
+          "enableBurstTrigger",
+          "burstTriggerCooldownTime",
+          "monitor_settings",
+          "showDebugMonitorWindow",
+          "monitorType",
+          "showMonitorWindowOnlyWhenTriggerActive",
+          "autohideMonitorWindow",
+          "limitOnLootAutosaves"
+        ],
+        "windowTitle": "AutoLoot",
+        "mod_info": {
+          "buttonText": "모드 정보",
+          "title": "여기에 마우스를 올리면 간단한 설명을 확인할 수 있습니다:",
+          "tooltips": "자동 루팅 모드에 오신 것을 환영합니다!\n\n이 모드는 시야 안의 루팅 가능한 대상에서 아이템을 자동으로 수집합니다.\n\n사용하려면 자동 루팅을 실행할 트리거 버튼을 설정하세요.\n\n- CET 오버레이의 단축키 설정에서 버튼을 지정할 수 있습니다. 키보드만 지원합니다.\n- 게임 기본 동작 키 사용 옵션을 켜면 기본 키(키보드 F, 게임패드 X)로 실행할 수도 있습니다.\n\n다음 방법으로 아이템을 루팅할 수 있습니다.\n\n- 트리거를 한 번 누르면 화면에 보이는 대상에서 아이템을 수집합니다.\n- 트리거를 길게 누르면 이동하는 동안 자동 루팅을 계속합니다.\n- 버스트 모드를 켠 뒤 트리거를 두 번 빠르게 누르면 버튼을 누르고 있지 않아도 자동 루팅이 계속됩니다. 지속시간이 끝나기 전에 중단하려면 다시 두 번 누르거나 게임을 일시정지하세요.\n\n퀘스트 관련 아이템과 신화 무기는 안전을 위해 자동 루팅하지 않습니다.\n같은 이유로 특정 게임 상태에서는 자동 루팅이 일시적으로 제한될 수 있습니다.\n\n자세한 기능 설명은 넥서스의 Autoloot 모드 페이지를 참고하세요."
+        },
+        "useDefaultActionKey": {
+          "title": "게임 기본 동작 키 사용",
+          "tooltips": "게임의 기본 동작 키를 눌렀을 때 자동 루팅을 활성화합니다.\n경고: 만지는 대로 다 줍게 될 수 있습니다(일명 ‘미다스의 손’ 현상)!"
+        },
+        "mod_info_trigger_not_configured": "참고: 루팅 트리거 버튼이 설정되지 않았습니다.",
+        "general_settings": "일반 설정:",
+        "range": {
+          "title": "범위",
+          "tooltips": "자동 루팅의 최대 범위를 설정합니다."
+        },
+        "mod_info_header": "##MOD_TITLE## ##MOD_VERSION## | 제작: (c)##MOD_AUTHOR##.",
+        "enableTakedownLoot": {
+          "title": "테이크다운 시 NPC 자동 루팅.",
+          "tooltips": "테이크다운으로 제압한 NPC를 자동으로 루팅합니다.\n퀘스트 관련 아이템과 신화 무기는 루팅하지 않습니다."
+        },
+        "enableBurstTrigger": {
+          "title": "버스트 모드 활성화",
+          "tooltips": "버스트 모드는 일정 시간 동안 루팅 트리거 더블 탭으로 연속 자동 루팅을 토글할 수 있게 해줍니다.\n\n버스트는 지정한 최대 지속시간까지 유지되며, 다시 더블 탭하거나 전투 돌입, 차량 탑승, 게임 일시정지 등 자동 루팅을 중단해야 하는 게임 상태 변경 시 종료될 수 있습니다.\n\n자동 루팅 상태를 더 정확히 제어하려면 루팅 모니터를 켜는 것을 고려하세요."
+        }
+      },
+      "monitor": {
+        "lootingStr": "자동 루팅 중 ",
+        "idleStr": "Autoloot 대기 중"
+      }
+    },
+    "exportOrder": [
+      "cetUiStrings",
+      "nuiUiStrings"
+    ],
+    "cetUiStrings": {
+      "warnings": {
+        "modDisabled": "이 모드는 손상된 모드 파일 또는 현재 게임 버전과의 호환성 문제로 비활성화되었습니다."
+      },
+      "exportOrder": [
+        "cetKeyBindings",
+        "settings",
+        "monitor",
+        "warnings"
+      ],
+      "cetKeyBindings": {
+        "autolootTriggerKey": "AutoLoot",
+        "autolootMonitorKey": "AutoLoot 모니터"
+      },
+      "settings": {
+        "burstTriggerCooldownTime": {
+          "title": "최대 버스트 지속시간 (mm:ss):",
+          "tooltips": "버스트 루팅의 최대 지속시간을 설정합니다.\n참고: 변경 사항은 다음 버스트부터 적용됩니다."
+        },
+        "monitor_settings": "루팅 모니터 설정:",
+        "showDebugMonitorWindow": {
+          "title": "모니터 창 표시.",
+          "tooltips": "현재 자동 루팅 상태를 보여주는 작은 모니터 창을 표시합니다.\n게임 설정 메뉴 방문 시 모니터 창이 숨겨질 수 있습니다."
+        },
+        "monitorType": {
+          "tooltips": "표시할 루팅 모니터의 유형을 선택합니다.",
+          "title": "모니터 유형 선택:",
+          "choices": [
+            "CET 창",
+            "미니맵 표시",
+            "CET 창과 미니맵 표시"
+          ]
+        },
+        "showMonitorWindowOnlyWhenTriggerActive": {
+          "title": "루팅 트리거 활성 시에만 모니터 표시.",
+          "tooltips": "루팅 트리거가 활성 상태(키/버튼 누름 또는 버스트 모드 활성)일 때에만 모니터를 표시합니다."
+        },
+        "autohideMonitorWindow": {
+          "title": "모니터 창 자동 숨김.",
+          "tooltips": "활성화 시, 게임의 시네마틱 상태에 따라 모니터 창을 자동으로 숨기거나 표시합니다."
+        },
+        "limitOnLootAutosaves": {
+          "title": "자동 루팅 자동 저장 제한.",
+          "tooltips": "자동 루팅 중 발생하는 불필요한 자동 저장을 크게 줄여 성능을 개선합니다. 일반 플레이로 발생하는 자동 저장은 유지됩니다.\n\n참고: 게임은 특정 아이템을 루팅할 때 자동 저장하도록 설계되어 있습니다.\n저장하는 동안 게임이 잠시 멈출 수 있으므로, 자동 저장을 제한하면 플레이가 더 원활해질 수 있습니다."
+        },
+        "mod_info_footer": "##MOD_VERSION## | 제작: (c)##MOD_AUTHOR##.",
+        "exportOrder": [
+          "windowTitle",
+          "mod_info",
+          "tooltipsHeader",
+          "mod_info_trigger_not_configured",
+          "general_settings",
+          "range",
+          "useDefaultActionKey",
+          "enableTakedownLoot",
+          "enableBurstTrigger",
+          "burstTriggerCooldownTime",
+          "monitor_settings",
+          "showDebugMonitorWindow",
+          "monitorType",
+          "showMonitorWindowOnlyWhenTriggerActive",
+          "autohideMonitorWindow",
+          "limitOnLootAutosaves",
+          "mod_info_footer"
+        ],
+        "windowTitle": "AutoLoot",
+        "mod_info": {
+          "buttonText": "모드 정보",
+          "title": "여기에 마우스를 올리면 간단한 설명을 확인할 수 있습니다.",
+          "tooltips": "자동 루팅 모드에 오신 것을 환영합니다!\n\n이 모드는 시야 안의 루팅 가능한 대상에서 아이템을 자동으로 수집합니다.\n\n사용하려면 자동 루팅을 실행할 트리거 버튼을 설정하세요.\n\n- CET 오버레이의 단축키 설정에서 버튼을 지정할 수 있습니다. 키보드만 지원합니다.\n- 게임 기본 동작 키 사용 옵션을 켜면 기본 키(키보드 F, 게임패드 X)로 실행할 수도 있습니다.\n\n다음 방법으로 아이템을 루팅할 수 있습니다.\n\n- 트리거를 한 번 누르면 화면에 보이는 대상에서 아이템을 수집합니다.\n- 트리거를 길게 누르면 이동하는 동안 자동 루팅을 계속합니다.\n- 버스트 모드를 켠 뒤 트리거를 두 번 빠르게 누르면 버튼을 누르고 있지 않아도 자동 루팅이 계속됩니다. 지속시간이 끝나기 전에 중단하려면 다시 두 번 누르거나 게임을 일시정지하세요.\n\n퀘스트 관련 아이템과 신화 무기는 안전을 위해 자동 루팅하지 않습니다.\n같은 이유로 특정 게임 상태에서는 자동 루팅이 일시적으로 제한될 수 있습니다.\n\n자세한 기능 설명은 넥서스의 Autoloot 모드 페이지를 참고하세요."
+        },
+        "tooltipsHeader": "왼쪽의 메뉴 항목에 마우스를 올리면 해당 항목의 툴팁이 여기 표시됩니다.",
+        "mod_info_trigger_not_configured": "참고: 루팅 트리거 버튼이 설정되지 않았습니다.",
+        "general_settings": "일반 설정:",
+        "range": {
+          "title": "범위:",
+          "tooltips": "자동 루팅의 최대 범위를 설정합니다."
+        },
+        "useDefaultActionKey": {
+          "title": "게임 기본 동작 키 사용.",
+          "tooltips": "게임의 기본 동작 키를 눌렀을 때 자동 루팅을 활성화합니다.\n경고: 미다스의 손 증후군을 주의하세요!"
+        },
+        "enableTakedownLoot": {
+          "title": "테이크다운 시 NPC 자동 루팅.",
+          "tooltips": "테이크다운으로 제압한 NPC를 자동으로 루팅합니다.\n퀘스트 관련 아이템과 신화 무기는 루팅하지 않습니다."
+        },
+        "enableBurstTrigger": {
+          "title": "버스트 모드 활성화",
+          "tooltips": "버스트 모드는 일정 시간 동안 루팅 트리거 더블 탭으로 연속 자동 루팅을 토글할 수 있게 해줍니다.\n\n버스트는 지정한 최대 지속시간까지 유지되며, 다시 더블 탭하거나 전투 돌입, 차량 탑승, 게임 일시정지 등 자동 루팅을 중단해야 하는 게임 상태 변경 시 종료될 수 있습니다.\n\n자동 루팅 상태를 더 정확히 제어하려면 루팅 모니터를 켜는 것을 고려하세요."
+        }
+      },
+      "monitor": {
+        "lootingStr": "루팅 중 ",
+        "idleStr": "대기 중."
+      }
+    }
+  }
+}
